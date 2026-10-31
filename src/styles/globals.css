@@ -11,12 +11,12 @@
  */
 @layer base {
   :root {
-    /* Light mode theme color — Anvil orange (forge fire). */
-    --brand: 95 49% 36%;
-    --brand-light: 95 49% 46%;
+    /* Light mode theme color — island sky blue (Big Walk's pastel horizon). */
+    --brand: 199 62% 38%;
+    --brand-light: 199 62% 48%;
     /* Split H/S for derived shades (e.g. darker button backgrounds). */
-    --brand-h: 95;
-    --brand-s: 49%;
+    --brand-h: 199;
+    --brand-s: 62%;
     /* Text-safe shade of the brand: --brand at 52% lightness is only 3.1:1
        on white (WCAG AA needs 4.5:1 for text). Derived from the H/S splits,
        so fork themes that only edit --brand/--brand-light stay consistent. */
@@ -25,10 +25,10 @@
 
   .dark {
     /* Dark mode theme color — slightly deeper. */
-    --brand: 95 44% 32%;
-    --brand-light: 95 44% 42%;
-    --brand-h: 95;
-    --brand-s: 44%;
+    --brand: 199 56% 34%;
+    --brand-light: 199 56% 44%;
+    --brand-h: 199;
+    --brand-s: 56%;
     --brand-text: var(--brand-h) var(--brand-s) 52%;
   }
 }
