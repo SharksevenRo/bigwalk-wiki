@@ -65,7 +65,7 @@ export const site: SiteConfig = {
   name: 'Big Walk Wiki',
   shortName: 'BW Wiki',
   description: 'Complete Big Walk wiki with puzzle solutions, island map guides, item locations, and co-op tips. Every page carries a last-verified date.',
-  domain: 'https://bigwalk.anydaykit.com',
+  domain: 'bigwalk.anydaykit.com',
   tagline: 'Your home for everything Big Walk',
   legalNotice: 'Big Walk Wiki is a fan-made community site. Not affiliated with or endorsed by House House or Panic.',
   // Set a real address if you run no social channels — the contact page
