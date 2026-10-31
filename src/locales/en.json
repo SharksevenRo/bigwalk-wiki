@@ -129,20 +129,20 @@
   "overview": {
     "guides": {
       "overviewTitle": "All Guides",
-      "overviewDescription": "Guides content for Big Walk. Replace this overview text in the locale JSON — it feeds the category page title and description."
+      "overviewDescription": "Guides for Big Walk — how the co-op walking adventure works, exploring the island with friends, and tips for getting the most out of every walk."
     },
     "items": {
       "overviewTitle": "All Items",
-      "overviewDescription": "Items content for Big Walk. Replace this overview text in the locale JSON — it feeds the category page title and description."
+      "overviewDescription": "Items in Big Walk — character customization, collectibles, and everything you can find while exploring the island on foot with friends."
     },
     "maps": {
       "overviewTitle": "All Maps",
-      "overviewDescription": "Maps content for Big Walk. Replace this overview text in the locale JSON — it feeds the category page title and description."
+      "overviewDescription": "Maps and locations in Big Walk — an overview of the island and its points of interest, so you never lose your way on a walk with friends."
     }
   },
   "home": {
     "meta": {
-      "title": "Big Walk Wiki — Guides, Bosses & Progression",
+      "title": "Big Walk Wiki — Guides, Items & Island Maps",
       "description": "Complete Big Walk wiki with puzzle solutions, island map guides, item locations, and co-op tips. Every page carries a last-verified date."
     },
     "updates": {
@@ -175,7 +175,7 @@
     "hero": {
       "badge": "Big Walk",
       "title": "Big Walk Wiki",
-      "description": "Complete Big Walk guides — bosses, items, and progression.",
+      "description": "Complete Big Walk guides — island maps, items, puzzles, and co-op walk tips.",
       "ctaPrimary": "Start reading",
       "ctaSecondary": "Browse all"
     },
@@ -219,17 +219,17 @@
           "highlights": [
             {
               "label": "Step 1",
-              "detail": "Finish the tutorial",
+              "detail": "Read the getting-started guide",
               "badge": "5 min"
             },
             {
               "label": "Step 2",
-              "detail": "Claim starter codes",
-              "badge": "1 min"
+              "detail": "Set up walkie-talkie voice chat",
+              "badge": "2 min"
             },
             {
               "label": "Step 3",
-              "detail": "First boss run",
+              "detail": "Tackle your first purple challenge",
               "badge": "15 min"
             }
           ]
